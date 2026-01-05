@@ -1,0 +1,4 @@
+com\example\main\App.class
+com\example\util\HibernateUtil.class
+com\example\model\Product.class
+com\example\dao\ProductDao.class
